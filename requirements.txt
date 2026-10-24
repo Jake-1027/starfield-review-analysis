@@ -1,0 +1,9 @@
+pandas>=3.0
+numpy>=2.3
+scikit-learn>=1.8
+scipy>=1.18
+matplotlib>=3.11
+requests>=2.32
+# 05a (임베딩)는 Colab GPU에서 실행 — 로컬 설치 불필요
+# sentence-transformers>=6.0
+# torch
